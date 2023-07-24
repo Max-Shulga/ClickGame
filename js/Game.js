@@ -257,7 +257,7 @@ class ObjectClickerGame {
 
 }
 
-new ObjectClickerGame(10, 2, [
+new ObjectClickerGame(60, 1.5, [
     "/img/bird.png",
     "/img/cockroach.png",
     "/img/mice.png",
